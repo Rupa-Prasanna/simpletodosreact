@@ -1,0 +1,18 @@
+.eachTodoItem_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightblue;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+}
+button {
+  height: 40px;
+  width: 100px;
+  color: red;
+  border-color: red;
+  border-radius: 15px;
+  margin: 20px;
+}
